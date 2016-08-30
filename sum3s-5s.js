@@ -1,4 +1,5 @@
 ///// SUM MULTIS of 3 & 5 /////////
+////// Find all sume of 3 & 5 in an array ///////
 
 function sumMultiplesOf3And5(number){
 	var multiples = [];
